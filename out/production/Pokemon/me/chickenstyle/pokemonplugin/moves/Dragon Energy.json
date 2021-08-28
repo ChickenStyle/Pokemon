@@ -1,0 +1,41 @@
+{
+  "attackIndex": 723,
+  "attackName": "Dragon Energy",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 50,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 1.5,
+				"speed": 0.5,
+				"rgb": [75, 0, 130]
+			},
+			"2": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [75, 0, 130]
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

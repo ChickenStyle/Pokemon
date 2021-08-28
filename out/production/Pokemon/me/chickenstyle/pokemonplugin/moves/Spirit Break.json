@@ -1,0 +1,34 @@
+{
+  "attackIndex": 706,
+  "attackName": "Spirit Break",
+  "attackType": "Fairy",
+  "attackCategory": "PHYSICAL",
+  "basePower": 75,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "SpecialAttack",
+      "amount": -1,
+      "isUser": false,
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary"
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

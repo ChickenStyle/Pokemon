@@ -1,0 +1,6 @@
+name: Pokemon
+main: me.chickenstyle.pokemonplugin.Pixelmon
+description: kool!
+api-version: 1.15
+version: 1.0
+author: ChickenStyle

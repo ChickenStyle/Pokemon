@@ -1,0 +1,1820 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/wooden_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "pokemon/icons/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "pokemon/icons/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "pokemon/icons/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "pokemon/icons/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "pokemon/icons/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "pokemon/icons/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "pokemon/icons/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "pokemon/icons/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "pokemon/icons/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "pokemon/icons/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "pokemon/icons/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "pokemon/icons/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "pokemon/icons/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "pokemon/icons/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "pokemon/icons/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "pokemon/icons/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "pokemon/icons/17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "pokemon/icons/18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "pokemon/icons/19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "pokemon/icons/20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "pokemon/icons/21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "pokemon/icons/22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "pokemon/icons/23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "pokemon/icons/24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "pokemon/icons/25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "pokemon/icons/26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "pokemon/icons/27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "pokemon/icons/28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "pokemon/icons/29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "pokemon/icons/30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "pokemon/icons/31"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "pokemon/icons/32"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "pokemon/icons/33"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "pokemon/icons/34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "pokemon/icons/35"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "pokemon/icons/36"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "pokemon/icons/37"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "pokemon/icons/38"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "pokemon/icons/39"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "pokemon/icons/40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "pokemon/icons/41"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "pokemon/icons/42"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "pokemon/icons/43"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "pokemon/icons/44"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "pokemon/icons/45"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "pokemon/icons/46"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "pokemon/icons/47"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "pokemon/icons/48"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "pokemon/icons/49"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "pokemon/icons/50"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "pokemon/icons/51"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "pokemon/icons/52"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "pokemon/icons/53"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "pokemon/icons/54"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "pokemon/icons/55"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "pokemon/icons/56"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "pokemon/icons/57"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "pokemon/icons/58"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "pokemon/icons/59"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "pokemon/icons/60"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "pokemon/icons/61"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "pokemon/icons/62"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "pokemon/icons/63"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "pokemon/icons/64"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "pokemon/icons/65"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "pokemon/icons/66"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "pokemon/icons/67"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "pokemon/icons/68"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "pokemon/icons/69"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "pokemon/icons/70"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "pokemon/icons/71"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "pokemon/icons/72"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "pokemon/icons/73"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "pokemon/icons/74"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "pokemon/icons/75"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "pokemon/icons/76"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "pokemon/icons/77"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "pokemon/icons/78"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "pokemon/icons/79"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "pokemon/icons/80"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "pokemon/icons/81"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "pokemon/icons/82"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "pokemon/icons/83"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "pokemon/icons/84"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "pokemon/icons/85"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "pokemon/icons/86"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "pokemon/icons/87"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "pokemon/icons/88"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "pokemon/icons/89"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "pokemon/icons/90"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "pokemon/icons/91"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "pokemon/icons/92"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "pokemon/icons/93"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "pokemon/icons/94"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "pokemon/icons/95"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "pokemon/icons/96"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "pokemon/icons/97"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "pokemon/icons/98"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "pokemon/icons/99"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "pokemon/icons/100"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "pokemon/icons/101"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "pokemon/icons/102"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "pokemon/icons/103"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "pokemon/icons/104"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "pokemon/icons/105"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "pokemon/icons/106"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "pokemon/icons/107"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "pokemon/icons/108"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "pokemon/icons/109"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "pokemon/icons/110"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "pokemon/icons/111"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "pokemon/icons/112"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "pokemon/icons/113"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "pokemon/icons/114"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "pokemon/icons/115"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "pokemon/icons/116"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "pokemon/icons/117"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "pokemon/icons/118"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "pokemon/icons/119"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "pokemon/icons/120"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "pokemon/icons/121"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "pokemon/icons/122"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "pokemon/icons/123"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "pokemon/icons/124"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "pokemon/icons/125"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126
+      },
+      "model": "pokemon/icons/126"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 127
+      },
+      "model": "pokemon/icons/127"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128
+      },
+      "model": "pokemon/icons/128"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 129
+      },
+      "model": "pokemon/icons/129"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130
+      },
+      "model": "pokemon/icons/130"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131
+      },
+      "model": "pokemon/icons/131"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132
+      },
+      "model": "pokemon/icons/132"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133
+      },
+      "model": "pokemon/icons/133"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 134
+      },
+      "model": "pokemon/icons/134"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 135
+      },
+      "model": "pokemon/icons/135"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 136
+      },
+      "model": "pokemon/icons/136"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 137
+      },
+      "model": "pokemon/icons/137"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 138
+      },
+      "model": "pokemon/icons/138"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 139
+      },
+      "model": "pokemon/icons/139"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140
+      },
+      "model": "pokemon/icons/140"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 141
+      },
+      "model": "pokemon/icons/141"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 142
+      },
+      "model": "pokemon/icons/142"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 143
+      },
+      "model": "pokemon/icons/143"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 144
+      },
+      "model": "pokemon/icons/144"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 145
+      },
+      "model": "pokemon/icons/145"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 146
+      },
+      "model": "pokemon/icons/146"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 147
+      },
+      "model": "pokemon/icons/147"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 148
+      },
+      "model": "pokemon/icons/148"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 149
+      },
+      "model": "pokemon/icons/149"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150
+      },
+      "model": "pokemon/icons/150"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151
+      },
+      "model": "pokemon/icons/151"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "pokemon/icons/1s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2000
+      },
+      "model": "pokemon/icons/2s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3000
+      },
+      "model": "pokemon/icons/3s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4000
+      },
+      "model": "pokemon/icons/4s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5000
+      },
+      "model": "pokemon/icons/5s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6000
+      },
+      "model": "pokemon/icons/6s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7000
+      },
+      "model": "pokemon/icons/7s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8000
+      },
+      "model": "pokemon/icons/8s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9000
+      },
+      "model": "pokemon/icons/9s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "pokemon/icons/10s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11000
+      },
+      "model": "pokemon/icons/11s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12000
+      },
+      "model": "pokemon/icons/12s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13000
+      },
+      "model": "pokemon/icons/13s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14000
+      },
+      "model": "pokemon/icons/14s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15000
+      },
+      "model": "pokemon/icons/15s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16000
+      },
+      "model": "pokemon/icons/16s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17000
+      },
+      "model": "pokemon/icons/17s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18000
+      },
+      "model": "pokemon/icons/18s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19000
+      },
+      "model": "pokemon/icons/19s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20000
+      },
+      "model": "pokemon/icons/20s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21000
+      },
+      "model": "pokemon/icons/21s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22000
+      },
+      "model": "pokemon/icons/22s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23000
+      },
+      "model": "pokemon/icons/23s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24000
+      },
+      "model": "pokemon/icons/24s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25000
+      },
+      "model": "pokemon/icons/25s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26000
+      },
+      "model": "pokemon/icons/26s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27000
+      },
+      "model": "pokemon/icons/27s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28000
+      },
+      "model": "pokemon/icons/28s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29000
+      },
+      "model": "pokemon/icons/29s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30000
+      },
+      "model": "pokemon/icons/30s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31000
+      },
+      "model": "pokemon/icons/31s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32000
+      },
+      "model": "pokemon/icons/32s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33000
+      },
+      "model": "pokemon/icons/33s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34000
+      },
+      "model": "pokemon/icons/34s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35000
+      },
+      "model": "pokemon/icons/35s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36000
+      },
+      "model": "pokemon/icons/36s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37000
+      },
+      "model": "pokemon/icons/37s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38000
+      },
+      "model": "pokemon/icons/38s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39000
+      },
+      "model": "pokemon/icons/39s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40000
+      },
+      "model": "pokemon/icons/40s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41000
+      },
+      "model": "pokemon/icons/41s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42000
+      },
+      "model": "pokemon/icons/42s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43000
+      },
+      "model": "pokemon/icons/43s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44000
+      },
+      "model": "pokemon/icons/44s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45000
+      },
+      "model": "pokemon/icons/45s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46000
+      },
+      "model": "pokemon/icons/46s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47000
+      },
+      "model": "pokemon/icons/47s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48000
+      },
+      "model": "pokemon/icons/48s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49000
+      },
+      "model": "pokemon/icons/49s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50000
+      },
+      "model": "pokemon/icons/50s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51000
+      },
+      "model": "pokemon/icons/51s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52000
+      },
+      "model": "pokemon/icons/52s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53000
+      },
+      "model": "pokemon/icons/53s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54000
+      },
+      "model": "pokemon/icons/54s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55000
+      },
+      "model": "pokemon/icons/55s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56000
+      },
+      "model": "pokemon/icons/56s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57000
+      },
+      "model": "pokemon/icons/57s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58000
+      },
+      "model": "pokemon/icons/58s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59000
+      },
+      "model": "pokemon/icons/59s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60000
+      },
+      "model": "pokemon/icons/60s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61000
+      },
+      "model": "pokemon/icons/61s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62000
+      },
+      "model": "pokemon/icons/62s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63000
+      },
+      "model": "pokemon/icons/63s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64000
+      },
+      "model": "pokemon/icons/64s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65000
+      },
+      "model": "pokemon/icons/65s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66000
+      },
+      "model": "pokemon/icons/66s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67000
+      },
+      "model": "pokemon/icons/67s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68000
+      },
+      "model": "pokemon/icons/68s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69000
+      },
+      "model": "pokemon/icons/69s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70000
+      },
+      "model": "pokemon/icons/70s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71000
+      },
+      "model": "pokemon/icons/71s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72000
+      },
+      "model": "pokemon/icons/72s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73000
+      },
+      "model": "pokemon/icons/73s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74000
+      },
+      "model": "pokemon/icons/74s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75000
+      },
+      "model": "pokemon/icons/75s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76000
+      },
+      "model": "pokemon/icons/76s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77000
+      },
+      "model": "pokemon/icons/77s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78000
+      },
+      "model": "pokemon/icons/78s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79000
+      },
+      "model": "pokemon/icons/79s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80000
+      },
+      "model": "pokemon/icons/80s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81000
+      },
+      "model": "pokemon/icons/81s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82000
+      },
+      "model": "pokemon/icons/82s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83000
+      },
+      "model": "pokemon/icons/83s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84000
+      },
+      "model": "pokemon/icons/84s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85000
+      },
+      "model": "pokemon/icons/85s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86000
+      },
+      "model": "pokemon/icons/86s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87000
+      },
+      "model": "pokemon/icons/87s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88000
+      },
+      "model": "pokemon/icons/88s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89000
+      },
+      "model": "pokemon/icons/89s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90000
+      },
+      "model": "pokemon/icons/90s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91000
+      },
+      "model": "pokemon/icons/91s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92000
+      },
+      "model": "pokemon/icons/92s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93000
+      },
+      "model": "pokemon/icons/93s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94000
+      },
+      "model": "pokemon/icons/94s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95000
+      },
+      "model": "pokemon/icons/95s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96000
+      },
+      "model": "pokemon/icons/96s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97000
+      },
+      "model": "pokemon/icons/97s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98000
+      },
+      "model": "pokemon/icons/98s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99000
+      },
+      "model": "pokemon/icons/99s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100000
+      },
+      "model": "pokemon/icons/100s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101000
+      },
+      "model": "pokemon/icons/101s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102000
+      },
+      "model": "pokemon/icons/102s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103000
+      },
+      "model": "pokemon/icons/103s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104000
+      },
+      "model": "pokemon/icons/104s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105000
+      },
+      "model": "pokemon/icons/105s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106000
+      },
+      "model": "pokemon/icons/106s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107000
+      },
+      "model": "pokemon/icons/107s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108000
+      },
+      "model": "pokemon/icons/108s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109000
+      },
+      "model": "pokemon/icons/109s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110000
+      },
+      "model": "pokemon/icons/110s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111000
+      },
+      "model": "pokemon/icons/111s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112000
+      },
+      "model": "pokemon/icons/112s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113000
+      },
+      "model": "pokemon/icons/113s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114000
+      },
+      "model": "pokemon/icons/114s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115000
+      },
+      "model": "pokemon/icons/115s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116000
+      },
+      "model": "pokemon/icons/116s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117000
+      },
+      "model": "pokemon/icons/117s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118000
+      },
+      "model": "pokemon/icons/118s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119000
+      },
+      "model": "pokemon/icons/119s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120000
+      },
+      "model": "pokemon/icons/120s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121000
+      },
+      "model": "pokemon/icons/121s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122000
+      },
+      "model": "pokemon/icons/122s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123000
+      },
+      "model": "pokemon/icons/123s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124000
+      },
+      "model": "pokemon/icons/124s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125000
+      },
+      "model": "pokemon/icons/125s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126000
+      },
+      "model": "pokemon/icons/126s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 127000
+      },
+      "model": "pokemon/icons/127s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128000
+      },
+      "model": "pokemon/icons/128s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 129000
+      },
+      "model": "pokemon/icons/129s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130000
+      },
+      "model": "pokemon/icons/130s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131000
+      },
+      "model": "pokemon/icons/131s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132000
+      },
+      "model": "pokemon/icons/132s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133000
+      },
+      "model": "pokemon/icons/133s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 134000
+      },
+      "model": "pokemon/icons/134s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 135000
+      },
+      "model": "pokemon/icons/135s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 136000
+      },
+      "model": "pokemon/icons/136s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 137000
+      },
+      "model": "pokemon/icons/137s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 138000
+      },
+      "model": "pokemon/icons/138s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 139000
+      },
+      "model": "pokemon/icons/139s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140000
+      },
+      "model": "pokemon/icons/140s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 141000
+      },
+      "model": "pokemon/icons/141s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 142000
+      },
+      "model": "pokemon/icons/142s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 143000
+      },
+      "model": "pokemon/icons/143s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 144000
+      },
+      "model": "pokemon/icons/144s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 145000
+      },
+      "model": "pokemon/icons/145s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 146000
+      },
+      "model": "pokemon/icons/146s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 147000
+      },
+      "model": "pokemon/icons/147s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 148000
+      },
+      "model": "pokemon/icons/148s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 149000
+      },
+      "model": "pokemon/icons/149s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150000
+      },
+      "model": "pokemon/icons/150s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151000
+      },
+      "model": "pokemon/icons/151s"
+    }
+  ]
+}
