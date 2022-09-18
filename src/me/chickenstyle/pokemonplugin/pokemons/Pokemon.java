@@ -1,5 +1,8 @@
 package me.chickenstyle.pokemonplugin.pokemons;
 
+import me.chickenstyle.pokemonplugin.pokemons.enums.Pokeball;
+import me.chickenstyle.pokemonplugin.pokemons.enums.PokemonType;
+import me.chickenstyle.pokemonplugin.pokemons.stats.*;
 import me.chickenstyle.pokemonplugin.utils.PokemonXPCalculator;
 import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
@@ -110,7 +113,7 @@ public class Pokemon {
     }
 
     public PokemonType[] getTypes() {
-        return types;
+        return types.clone();
     }
 
     public void spawn(Location loc) {
@@ -122,7 +125,7 @@ public class Pokemon {
     }
 
     public HashMap<Integer,Move[]> getUnlockableMoves() {
-        return unlockableMoves;
+        return (HashMap<Integer, Move[]>) unlockableMoves.clone();
     }
 
     public boolean canLevelUp() {
@@ -141,7 +144,7 @@ public class Pokemon {
     }
 
     public Move[] getMoves() {
-        return moves;
+        return moves.clone();
     }
 
     public PokemonEVYield getEvYield() { return evYield; }

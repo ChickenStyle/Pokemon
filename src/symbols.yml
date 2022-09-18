@@ -1,0 +1,55 @@
+pokemonType:
+  Normal:
+    typeColor: "&f"
+    typeSymbol: "⊙"
+  Fire:
+    typeColor: "&c"
+    typeSymbol: "🔥"
+  Water:
+    typeColor: "&9"
+    typeSymbol: "🌊"
+  Electric:
+    typeColor: "&e"
+    typeSymbol: "⚡"
+  Grass:
+    typeColor: "&2"
+    typeSymbol: "♣"
+  Ice:
+    typeColor: "&b"
+    typeSymbol: "🧊"
+  Fighting:
+    typeColor: "&4"
+    typeSymbol: "👊"
+  Poison:
+    typeColor: "&5"
+    typeSymbol: "🧪"
+  Ground:
+    typeColor: "&6"
+    typeSymbol: "⏚"
+  Flying:
+    typeColor: "&7"
+    typeSymbol: "𓆩𓆪"
+  Psychic:
+    typeColor: "&d"
+    typeSymbol: "✦"
+  Bug:
+    typeColor: "&a"
+    typeSymbol: "🐛"
+  Rock:
+    typeColor: "&e"
+    typeSymbol: "🗿"
+  Ghost:
+    typeColor: "&8"
+    typeSymbol: "👻"
+  Dragon:
+    typeColor: "&5"
+    typeSymbol: "🐉"
+  Dark:
+    typeColor: "&0"
+    typeSymbol: "🌃"
+  Steel:
+    typeColor: "&f"
+    typeSymbol: "⛓"
+  Fairy:
+    typeColor: "&d"
+    typeSymbol: "🧚"

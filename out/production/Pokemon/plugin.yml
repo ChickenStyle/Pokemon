@@ -1,5 +1,5 @@
-name: Pokemon
-main: me.chickenstyle.pokemonplugin.Pixelmon
+name: Pixelmon
+main: me.chickenstyle.pokemonplugin.PixelmonCore
 description: kool!
 api-version: 1.15
 version: 1.0

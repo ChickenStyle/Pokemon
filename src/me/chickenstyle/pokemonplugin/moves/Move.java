@@ -1,7 +1,6 @@
 package me.chickenstyle.pokemonplugin.moves;
 
-import me.chickenstyle.pokemonplugin.pokemons.PokemonType;
-import me.chickenstyle.pokemonplugin.pokemons.Pokemon;
+import me.chickenstyle.pokemonplugin.pokemons.enums.PokemonType;
 
 public class Move {
 

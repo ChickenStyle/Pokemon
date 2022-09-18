@@ -2,19 +2,16 @@ package me.chickenstyle.pokemonplugin.utils;
 
 import com.google.common.collect.Maps;
 import me.chickenstyle.pokemonplugin.Trainer;
-import me.chickenstyle.pokemonplugin.pokemons.Pokeball;
+import me.chickenstyle.pokemonplugin.pokemons.enums.Pokeball;
 import me.chickenstyle.pokemonplugin.pokemons.Pokemon;
-import me.chickenstyle.pokemonplugin.pokemons.PokemonGender;
+import me.chickenstyle.pokemonplugin.pokemons.enums.PokemonGender;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.scoreboard.DisplaySlot;
 import org.bukkit.scoreboard.Objective;
 import org.bukkit.scoreboard.Scoreboard;
-import org.bukkit.scoreboard.ScoreboardManager;
 
-import java.util.HashMap;
 import java.util.Map;
-import java.util.UUID;
 
 public class PokeScoreboard {
 

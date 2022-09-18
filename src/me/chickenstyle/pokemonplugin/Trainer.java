@@ -18,7 +18,7 @@ public class Trainer {
 
     private Pokemon[] pokemons;
 
-    private final Set<Integer> pokemonsEncountered;
+    private final Set<Integer> pokedexEncounters;
 
     private int selectedSlot;
 
@@ -44,13 +44,12 @@ public class Trainer {
         this.inTrainerMode = false;
         try {
             for (int i = 0; i < 6; i++) this.pokemons[i] = pokemons[i];
-        } catch (Exception ignored) {
-        }
+        } catch (Exception ignored) {}
 
         scoreboard = new PokeScoreboard(this);
 
         this.savedItems = new ItemStack[3];
-        this.pokemonsEncountered = new HashSet<>();
+        this.pokedexEncounters = new HashSet<>();
     }
 
     public Pokemon getSelectedPokemon() {
@@ -145,12 +144,12 @@ public class Trainer {
 
     }
 
-    public Set<Integer> getPokemonsEncountered() {
-        return pokemonsEncountered;
+    public Set<Integer> getPokedexEncounters() {
+        return pokedexEncounters;
     }
 
     public void addPokemonEncountered(int id) {
-        pokemonsEncountered.add(id < 1 || id > 151 ? 1 : id);
+        pokedexEncounters.add(id < 1 || id > 151 ? 1 : id);
     }
 
 }

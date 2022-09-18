@@ -1,7 +1,7 @@
 package me.chickenstyle.pokemonplugin.utils;
 
-import me.chickenstyle.pokemonplugin.Pixelmon;
-import me.chickenstyle.pokemonplugin.pokemons.Pokeball;
+import me.chickenstyle.pokemonplugin.PixelmonCore;
+import me.chickenstyle.pokemonplugin.pokemons.enums.Pokeball;
 import me.chickenstyle.pokemonplugin.pokemons.Pokemon;
 
 import java.io.File;
@@ -9,10 +9,12 @@ import java.util.Random;
 
 public class PokemonManager {
 
+
+    private final static int pokemonAmont = 151;
     private static Random rnd = new Random();
 
     public static Pokemon getPokemonById(int id,int level) {
-        return getPokemonById(id,level, (rnd.nextInt(4098) + 1) == 69);
+        return getPokemonById(id,level, (rnd.nextInt(4098)) == 69);
     }
 
     public static Pokemon getPokemonById(int id,int level,boolean isShiny) {
@@ -25,15 +27,18 @@ public class PokemonManager {
 
         String strId = "" + id;
 
-        strId = id > 0 && id < 10 ? "00" + id: strId;
-        strId = id >= 10 && id < 100 ? "0" + id: strId;
+        strId = id > 0 && id < 10 ? "00" + id : strId;
+        strId = id >= 10 && id < 100 ? "0" + id : strId;
         strId = id >= 100 ? id + "" : strId;
 
         return new Pokemon(
-                new File(Pixelmon.getInstance().getDataFolder().getPath() + "/stats/" + strId +  ".json"),
-                isShiny,level,pokeball);
+                new File(PixelmonCore.getInstance().getDataFolder().getPath() + "/pokemon_stats/" + strId + ".json"),
+                isShiny, level, pokeball);
 
+    }
 
+    public static int getPokemonAmount() {
+        return pokemonAmont;
     }
 
 }

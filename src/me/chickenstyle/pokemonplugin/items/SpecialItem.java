@@ -1,6 +1,6 @@
 package me.chickenstyle.pokemonplugin.items;
 
-import me.chickenstyle.pokemonplugin.Pixelmon;
+import me.chickenstyle.pokemonplugin.PixelmonCore;
 import me.chickenstyle.pokemonplugin.Trainer;
 import me.chickenstyle.pokemonplugin.utils.Utils;
 import org.bukkit.Material;
@@ -34,7 +34,7 @@ public abstract class SpecialItem {
         }
         item.setItemMeta(meta);
 
-        item = Pixelmon.getNmsHandler().addStringTag(item,"SpecialItem",this.getClass().getName());
+        item = PixelmonCore.getNmsHandler().addStringTag(item,"SpecialItem",this.getClass().getName());
 
     }
 

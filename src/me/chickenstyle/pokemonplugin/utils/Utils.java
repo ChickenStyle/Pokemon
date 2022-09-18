@@ -1,6 +1,11 @@
 package me.chickenstyle.pokemonplugin.utils;
 
 import me.chickenstyle.pokemonplugin.pokemons.*;
+import me.chickenstyle.pokemonplugin.pokemons.enums.PokemonNature;
+import me.chickenstyle.pokemonplugin.pokemons.stats.BaseStats;
+import me.chickenstyle.pokemonplugin.pokemons.stats.EVStats;
+import me.chickenstyle.pokemonplugin.pokemons.stats.IVStats;
+import me.chickenstyle.pokemonplugin.pokemons.stats.PokemonStats;
 import org.bukkit.ChatColor;
 import org.json.simple.JSONObject;
 
